@@ -1,0 +1,2 @@
+lkl-source.zip contains only the folder with the files changed.
+The entire .vmdk file can be found here : https://uoioannina-my.sharepoint.com/:f:/g/personal/cs04375_uoi_gr/EjeWXNnbtZhMisRnhezc68oBt10OxFmyRoWNVT4BN-xQjA?e=r8d8NG
